@@ -1,0 +1,10 @@
+C:\DJ\CAF\JBSuser\JBSuser\bin\Debug\netcoreapp1.1\JBSuser.deps.json
+C:\DJ\CAF\JBSuser\JBSuser\bin\Debug\netcoreapp1.1\JBSuser.runtimeconfig.json
+C:\DJ\CAF\JBSuser\JBSuser\bin\Debug\netcoreapp1.1\JBSuser.runtimeconfig.dev.json
+C:\DJ\CAF\JBSuser\JBSuser\bin\Debug\netcoreapp1.1\JBSuser.dll
+C:\DJ\CAF\JBSuser\JBSuser\bin\Debug\netcoreapp1.1\JBSuser.pdb
+C:\DJ\CAF\JBSuser\JBSuser\obj\Debug\netcoreapp1.1\JBSuser.csprojResolveAssemblyReference.cache
+C:\DJ\CAF\JBSuser\JBSuser\obj\Debug\netcoreapp1.1\JBSuser.AssemblyInfo.cs
+C:\DJ\CAF\JBSuser\JBSuser\obj\Debug\netcoreapp1.1\JBSuser.dll
+C:\DJ\CAF\JBSuser\JBSuser\obj\Debug\netcoreapp1.1\JBSuser.pdb
+C:\DJ\CAF\JBSuser\JBSuser\obj\Debug\netcoreapp1.1\UserSecretsAssemblyInfo.cs
